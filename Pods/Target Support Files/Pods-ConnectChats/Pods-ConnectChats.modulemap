@@ -1,0 +1,6 @@
+framework module Pods_ConnectChats {
+  umbrella header "Pods-ConnectChats-umbrella.h"
+
+  export *
+  module * { export * }
+}
