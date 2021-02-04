@@ -18,6 +18,12 @@ pod 'FBSDKLoginKit'
 # Google
 pod 'GoogleSignIn'
 
+# User Interface
+pod 'MessageKit'
+pod 'JGProgressHUD'
+pod 'RealmSwift'
+pod 'SDWebImage'
+
 end
 
 post_install do |installer|
