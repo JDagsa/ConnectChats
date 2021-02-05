@@ -1,5 +1,5 @@
 #!/bin/bash
 
 nano Podfile
-pod install
+pod install --silent
 
